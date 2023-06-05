@@ -26,8 +26,6 @@ print("Number of rows:",len(f.axes[0]))
 print("Number of columns:",len(f.axes[1]))
 ```
 ## OUTPUT:
-```
 <br>![output](./ex6(p).png)
-```
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
