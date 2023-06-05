@@ -25,6 +25,7 @@ print(f.tail())
 print("Number of rows:",len(f.axes[0]))
 print("Number of columns:",len(f.axes[1]))
 ```
+
 ## OUTPUT:
 <br>![output](./ex6(p).png)
 ## RESULT:
